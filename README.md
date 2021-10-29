@@ -30,6 +30,10 @@ If you would like to exit the program before it has finished, press the followin
 
 ctrl and c
 
+To change the number of times that the program loops, go into the code and change the 10 in `const int LoopAmount = 10;` to whatever amount you would like.
+
+If you want it to run forever, change 
+
 ## Example of Output
 The following is an example of an output when the amount of times the program should loop is equal to 10.
 
