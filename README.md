@@ -17,7 +17,7 @@ To install g++ on MobaXTerm, use the following command.
 ### Installation
 To install the code for this project, either copy and paste the code into a file on your computer, or type the following command.
 
-`git clone https://github.com/JarekHeath/OS-Assignment-1/blob/a03a08d4e3480c7ef24c933e4c2202964165ea12/producer_consumer.cpp`
+`git clone https://github.com/JarekHeath/OS-Assignment-1`
 
 ## Usage
 To use and compile this program, run the following commands.
