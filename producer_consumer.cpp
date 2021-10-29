@@ -1,16 +1,16 @@
 #include <iostream>
-#include <stdio.h>		//For input/output
-#include <stdlib.h>		//For rand
-#include <sys/mman.h>	//Needed for shared memory
-#include <sys/shm.h>	//Needed for shared memory
-#include <sys/stat.h>	//For mode constants
+#include <stdio.h>		
+#include <stdlib.h>		
+#include <sys/mman.h>	
+#include <sys/shm.h>	
+#include <sys/stat.h>	
 #include <sys/types.h>
-#include <sys/ipc.h>	//Needed for semaphores and shared memory
-#include <fcntl.h>	//For O_* constants
+#include <sys/ipc.h>	
+#include <fcntl.h>	
 #include <unistd.h>
-#include <semaphore.h>	//Needed for semaphores
-#include <errno.h>	//Determines errors
-#include <string.h>	//Used with determining error
+#include <semaphore.h>	
+#include <errno.h>	
+#include <string.h>	
 #include <time.h>
 
 
