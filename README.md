@@ -32,7 +32,7 @@ ctrl and c
 
 To change the number of times that the program loops, go into the code and change the 10 in `const int LoopAmount = 10;` to whatever amount you would like.
 
-If you want it to run forever, change 
+If you want it to run forever, change `in < LoopAmount` to 1 in the while loop in both the producer and consumer functions in the code.
 
 ## Example of Output
 The following is an example of an output when the amount of times the program should loop is equal to 10.
